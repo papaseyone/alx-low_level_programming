@@ -1,3 +1,10 @@
+#include "main.h"
+
+/**
+ * jack_bauer - Prints evry minute of the day of Jack Beauer
+ * Return: ...
+ */
+
 void jack_bauer(void)
 {
 int a, b, c, d;
