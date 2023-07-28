@@ -1,14 +1,5 @@
 #include <stdio.h>
 
-/**
- * main - Entry point of the program
- *
- * This function initializes an integer array 'a', sets the value of its third
- * element to 1024, and then prints the modified value after setting its third
- * element to 98 using pointer arithmetic.
- *
- * Return: Always 0 (Success)
- */
 int main(void)
 {
 int n;
