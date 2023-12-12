@@ -1,21 +1,14 @@
 #include "main.h"
-
-void _puts(char *str);
-
 #include <stdio.h>
 
 /**
- * main - Entry point
+ * _puts - Prints a string to stdout followed by a newline
+ * @str: The string to be printed
  *
- * Description: This code prints the following message:
- *
- * "Programming is like building a multilingual puzzle"
- *
- * Return: Always 0 (Success)
+ * Description: This function prints the given string to the standard output
+ * followed by a newline character.
  */
-int main(void)
+void _puts(char *str)
 {
-puts("\"Programming is like building a multilingual puzzle");
-return (0);
+puts(str);
 }
-
