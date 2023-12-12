@@ -4,7 +4,7 @@
  * sub - sustract two int
  * @a: first int
  * @b: second int
- * Return: substraction 
+ * Return: substraction
  */
 int sub(int a, int b)
 {
@@ -54,4 +54,3 @@ int multiply(int a, int b)
 {
 return (a * b);
 }
-
